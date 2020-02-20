@@ -8,18 +8,18 @@ Spor,sağlık,magazin ve ekonomi haberlerini sınıflandırmak için tasarlanmı
 textclassification.rar dosyasını kod ile aynı dinize çıkartmanız gerekmektedir.
 
 
-##K=1 Measure 
+#K=1 Measure 
 
 ![Test Image 1](https://github.com/atidem/newsClassification/blob/master/k1.JPG)
 
-##K=3 Measure 
+#K=3 Measure 
 
 ![Test Image 1](https://github.com/atidem/newsClassification/blob/master/k3.JPG)
 
-##K=5 Measure 
+#K=5 Measure 
 
 ![Test Image 1](https://github.com/atidem/newsClassification/blob/master/k5.JPG)
 
-##Svm Measure 
+#Svm Measure 
 
 ![Test Image 1](https://github.com/atidem/newsClassification/blob/master/svm.JPG)
