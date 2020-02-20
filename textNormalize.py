@@ -1,5 +1,3 @@
-
-##  !! Attention Please Hilal station.. !!
 ## bu kod txtlerinizi kendince düzenler ve yeni dosya oluşturarak işlemlerine devam eder..
 ## protected words dosyasını aşagıdaki konuma kopyalayınız..
 ## C:\Users\kullanıcı adı\Anaconda3\Lib\site-packages\TurkishStemmer\resources
