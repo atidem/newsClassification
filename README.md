@@ -6,3 +6,4 @@ Sklearn kütüphanesi sadece support vector classify algoritması için kullanı
 
 Spor,sağlık,magazin ve ekonomi haberlerini sınıflandırmak için tasarlanmış, knn (en yakın komşu) algoritması kullanılmıştır.
 textclassification.rar dosyasını kod ile aynı dinize çıkartmanız gerekmektedir.
+
